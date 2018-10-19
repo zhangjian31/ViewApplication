@@ -19,9 +19,22 @@
         <!--<category android:name="android.intent.category.LAUNCHER" />-->
         <!--</intent-filter>-->
         <!--</activity>-->
+
+        <!--<activity-->
+            <!--android:name=".SelectVideoCoverActivity"-->
+            <!--android:screenOrientation="portrait"-->
+            <!--android:theme="@style/AppTheme.Common">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
         <activity
-            android:name=".SelectVideoCoverActivity"
+            android:name=".MyImageActivity"
             android:screenOrientation="portrait"
+
             android:theme="@style/AppTheme.Common">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

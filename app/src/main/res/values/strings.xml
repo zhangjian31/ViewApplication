@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewApplication</string>
+
+    <string name="string_select_cover_back">返回</string>
+    <string name="string_select_cover_confirm">完成</string>
+    <string name="string_select_cover_has_selected">已选封面</string>
+</resources>
